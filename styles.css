@@ -1,0 +1,87 @@
+body{
+  font-family: 'Red Rose', cursive;
+}
+#title{
+background-color: #40E0D0;
+color:#fff;
+}
+h1{
+  font-size:3.2rem;
+  line-height: 1.5;
+font-family: 'Red Rose', cursive;
+}
+h2{
+  font-family: Red Rose-bold;
+  font-size: 3rem;
+}
+h3{
+
+
+  font-size: 2rem;
+}
+#button{
+  margin-top: 250px;
+
+}
+.container-fluid{
+  padding: 1% 15%;
+}
+.title-img{
+  transform: rotate(25deg);
+}
+
+#features{
+  text-align: center;
+  margin-top: 10px;
+}
+.fa-heart:hover{
+  color: Red;
+
+}
+.fa-bullseye:hover{
+  color: Red;
+}
+.fa-check-circle:hover{
+  color:Red;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #40E0D0;
+  color: #fff;
+}
+.testimonial-image
+{
+  width: 20%;
+  border-radius: 67%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+  text-align: center;
+  background-color: #40E0D0;
+  padding-bottom: 3%;
+}
+.press-img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+#cta{
+  height: 200px;
+  padding:75px;
+  background-color: #40E0D0;
+  text-align: center;
+  color: #fff;
+}
+#footer{
+text-align: center;
+padding: 20px;
+}
+.footer-icon{
+  padding:2%;
+}
